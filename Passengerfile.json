@@ -1,0 +1,13 @@
+{
+    
+    "app_type": "node",
+    "startup_file": "app.js",
+    
+    "environment": "production",
+    
+    "port": 80,
+   
+    "daemonize": true,
+    
+    "user": "kidtangd"
+}
